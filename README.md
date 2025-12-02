@@ -1,4 +1,4 @@
-# grayscale
+# grayscale (updated for macOS 15.1)
 
 An app that makes your Mac grayscale/color via accessibility with one click
 
@@ -9,6 +9,9 @@ An app that makes your Mac grayscale/color via accessibility with one click
 - **Silent toggle**: When Python 3 is available, the app toggles grayscale silently in the background without opening System Settings
 - **Universal compatibility**: Falls back to GUI automation for systems without Python 3
 - **One-click operation**: Simply run the app to toggle between grayscale and color
+
+## Best Usage
+- Great for use with Apple Shortcuts or Alfred 5.5 as a Hotkey workflow
 
 ## Setup
 
